@@ -1,70 +1,49 @@
-Bison Programs
-Intertribal Buffalo Council or ITBC
-1. Blackfeet Nation 48.59040062052976, -112.92582230939797
-2. Cherokee Nation 36.29323579707158, -95.09072299999883
-3. Cheyenne and Arapaho Tribes 35.59984195158141, -97.99789315365699
-4. Cheyenne River Sioux Tribe 44.9964787, -101.18924733434245
-5. Chippewa Cree Tribe of the Rocky Boy Reservation 48.26668355172287, -109.77980507665686
-6. Confederated Salish & Kootenai Tribes of the Flathead Nation 47.60641017476254, -114.11666107597829
-7. Confederated Tribes of Umatilla 45.64219913116071, -118.6957830071697
-8. Crow Creek Sioux Tribe 44.12473270953884, -99.48521409406226
-9. Crow Tribe of Indians
-10. Eastern Shoshone Tribe
-11. Flandreau Santee Sioux Tribe
-12. Forest County Potawatomi
-13. Fort Belknap Indian Community
-14. Fort Peck Assiniboine & Sioux Tribes
-15. Ho-Chunk Nation
-16. Iowa Tribe of Oklahoma
-17. Jicarilla Apache Nation
-18. Kalispel Tribe of Indians
-19. Leech Lake Band of Ojibwe
-20. Lower Brule Sioux Tribe
-21. Mesa Grande Band of Mission Indians
-22. Meskwaki Nation (Sac & Fox Tribe of MS in IA)
-23. MHA Nation (Three Affiliated Tribes)
-24. Modoc Nation
-25. Nambé O-Ween-Gé
-26. Native Village of Ruby
-27. Northern Arapaho Tribe
-28. Northern Cheyenne Tribe
-29. Oglala Sioux Tribe
-30. Ohkay Owingeh/San Juan Pueblo
-31. Omaha Tribe of Nebraska
-32. Oneida Nation
-33. Osage Nation
-34. Picuris Pueblo
-35. Pit River Tribe
-36. Ponca Tribe of Nebraska
-37. Prairie Band Potawatomi Nation
-38. Prairie Island Community
-39. Pueblo de Cochiti
-40. Pueblo of Pojaque
-41. Pueblo of Sandia
-42. Pueblo of Tesuque
-43. Quapaw Tribe of Oklahoma
-44. Red Lake Nation Band of Chippewa
-45. Rosebud Sioux Tribe
-46. Round Valley Indian Tribes
-47. Sac & Fox Nation of Missouri in Kansas and Nebraska
-48. Salt River Pima-Maricopa Indian Community
-49. Santee Sioux Tribe of Nebraska
-50. Seminole Nation of Oklahoma
-51. Seneca-Cayuga Nation
-52. Shakopee Mdewakanton Sioux Community
-53. Shoshone Bannock Tribes
-54. Sisseton Wahpeton Oyate
-55. Skull Valley of Goshutes
-56. Southern Ute Tribe
-57. Spirit Lake Nation
-58. Standing Rock Sioux Tribe
-59. Stevens Village
-60. Stillaguamish Tribe of Indians
-61. Taos Pueblo
-62. Tonkawa Tribe
-63. Turtle Mountain Band of Chippewa
-64. Ute Indian Tribe
-65. White Earth Nation
-66. Winnebago Tribe of Nebraska
-67. Yakama Nation
-68. Yankton Sioux Tribe
+14. Iowa Tribe of Oklahoma ----- Missing
+
+20. Meskwaki Nation (Sac & Fox Tribe of MS in IA)
+21. MHA Nation (Three Affiliated Tribes)
+22. Modoc Nation
+23. Nambé O-Ween-Gé
+24. Native Village of Ruby
+25. Northern Arapaho Tribe
+26. Northern Cheyenne Tribe
+27. Oglala Sioux Tribe
+28. Ohkay Owingeh/San Juan Pueblo
+29. Omaha Tribe of Nebraska
+30. Oneida Nation
+31. Osage Nation
+32. Picuris Pueblo
+33. Pit River Tribe
+34. Ponca Tribe of Nebraska
+35. Prairie Band Potawatomi Nation
+36. Prairie Island Community
+37. Pueblo de Cochiti
+38. Pueblo of Pojaque
+39. Pueblo of Sandia
+40. Pueblo of Tesuque
+41. Quapaw Tribe of Oklahoma
+42. Red Lake Nation Band of Chippewa
+43. Rosebud Sioux Tribe
+44. Round Valley Indian Tribes
+45. Sac & Fox Nation of Missouri in Kansas and Nebraska
+46. Salt River Pima-Maricopa Indian Community
+47. Santee Sioux Tribe of Nebraska
+48. Seminole Nation of Oklahoma
+49. Seneca-Cayuga Nation
+50. Shakopee Mdewakanton Sioux Community
+51. Shoshone Bannock Tribes
+52. Sisseton Wahpeton Oyate
+53. Skull Valley of Goshutes
+54. Southern Ute Tribe
+55. Spirit Lake Nation
+56. Standing Rock Sioux Tribe
+57. Stevens Village
+58. Stillaguamish Tribe of Indians
+59. Taos Pueblo
+60. Tonkawa Tribe
+61. Turtle Mountain Band of Chippewa
+62. Ute Indian Tribe
+63. White Earth Nation
+64. Winnebago Tribe of Nebraska
+65. Yakama Nation
+66. Yankton Sioux Tribe

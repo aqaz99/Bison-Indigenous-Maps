@@ -1,0 +1,71 @@
+
+54. Southern Ute Tribe
+
+      Southern Ute Southern Ute Reservation 3925R
+
+55. Spirit Lake Nation
+
+      Spirit Lake Spirit Lake Reservation 3935R
+
+56. Standing Rock Sioux Tribe
+
+      Standing Rock Standing Rock Reservation 3970R
+
+57. Stevens Village
+
+      Stevens Village Stevens Village ANVSA 7520R
+
+58. Stillaguamish Tribe of Indians
+
+      Stillaguamish Stillaguamish Reservation 4000R
+
+      Stillaguamish Stillaguamish Off-Reservation Trust Land 4000T
+
+59. Taos Pueblo
+
+      Taos Taos Pueblo 4140R
+
+      Taos Taos Off-Reservation Trust Land 4140T
+
+60. Tonkawa Tribe
+
+      Tonkawa Tonkawa OTSA 5860R
+
+61. Turtle Mountain Band of Chippewa
+
+      Turtle Mountain Turtle Mountain Reservation 4345R
+
+      Turtle Mountain Turtle Mountain Off-Reservation Trust Land 4345T
+
+62. Ute Indian Tribe
+
+      Southern Ute Southern Ute Reservation 3925R
+
+      Ute Mountain Ute Mountain Reservation 4470R
+
+      Ute Mountain Ute Mountain Off-Reservation Trust Land 4470T
+
+63. White Earth Nation
+
+      White Earth White Earth Reservation 4595R
+
+      White Earth White Earth Off-Reservation Trust Land 4595T
+
+      White Mountain White Mountain ANVSA 7745R
+
+64. Winnebago Tribe of Nebraska
+
+      Winnebago Winnebago Reservation 4625R
+
+      Winnebago Winnebago Off-Reservation Trust Land 4625T
+
+65. Yakama Nation
+
+      Yakama Nation Yakama Nation Reservation 4690R
+
+      Yakama Nation Yakama Nation Off-Reservation Trust Land 4690T
+
+66. Yankton Sioux Tribe
+
+      Yankton Yankton Reservation 4700R
+
